@@ -1,4 +1,4 @@
-# revisor-portugues-juridico
+# Revisor-portugues-juridico
 
 Skill do Claude para revisar textos jurídicos em português (petições, contratos, pareceres): clareza, pontuação, concordância, regência, crase, ortografia, ambiguidade e vícios de redação de IA.
 
